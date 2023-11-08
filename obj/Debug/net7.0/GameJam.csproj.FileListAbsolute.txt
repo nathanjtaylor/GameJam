@@ -1,0 +1,14 @@
+C:\Users\lilfu\OneDrive\Desktop\GameJam\bin\Debug\net7.0\GameJam.exe
+C:\Users\lilfu\OneDrive\Desktop\GameJam\bin\Debug\net7.0\GameJam.deps.json
+C:\Users\lilfu\OneDrive\Desktop\GameJam\bin\Debug\net7.0\GameJam.runtimeconfig.json
+C:\Users\lilfu\OneDrive\Desktop\GameJam\bin\Debug\net7.0\GameJam.dll
+C:\Users\lilfu\OneDrive\Desktop\GameJam\bin\Debug\net7.0\GameJam.pdb
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.AssemblyInfoInputs.cache
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.AssemblyInfo.cs
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.csproj.CoreCompileInputs.cache
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.dll
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\refint\GameJam.dll
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.pdb
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\GameJam.genruntimeconfig.cache
+C:\Users\lilfu\OneDrive\Desktop\GameJam\obj\Debug\net7.0\ref\GameJam.dll
